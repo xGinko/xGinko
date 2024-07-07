@@ -7,5 +7,3 @@
 - 📫 Discord: `xginko`
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xGinko"></p>
-
-<p align="center"><img align="center" src="https://count.getloli.com/get/@xGinko"></p>
